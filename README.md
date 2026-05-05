@@ -28,8 +28,11 @@ This project combines **SQL + Python** to perform end-to-end data analysis:
 ---
 
 ## 📸 Sample Visualizations
+### Top 3 Customers of each Year
+![Query's Visualization1](images/top_customers.png)
 
-(Add screenshots from `/images` folder)
+### Coorealtion between Price and Product
+![Query's Visualization2](images/corelation.png)
 
 ---
 
